@@ -58,13 +58,6 @@ frontend/
 - **Authentication:** JWT (JSON Web Tokens)  
 - **API Testing:** Postman  
 - **Version Control:** Git & GitHub
-  
-## 🖥️ Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-```
 
 ## 🧑‍💻 Author  
 
