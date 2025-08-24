@@ -64,4 +64,12 @@ frontend/
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
+```
+
+## 🧑‍💻 Author  
+
+**Md Seraj**  
+💼 Aspiring MERN Stack Developer  
+📧 your-email@example.com  
+🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
