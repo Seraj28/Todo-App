@@ -71,5 +71,5 @@ git clone https://github.com/<your-username>/<your-repo>.git
 **Md Seraj**  
 💼 Aspiring MERN Stack Developer  
 📧 seraj232855@gmail.com  
-🌐 [LinkedIn Profile](www.linkedin.com/in/md-s-14aa3127a)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/md-s-14aa3127a)  
 
