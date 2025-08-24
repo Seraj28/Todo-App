@@ -34,7 +34,7 @@ The app features a clean and responsive UI with **React + TailwindCSS**, and a s
 ## 📂 Project Structure  
 
 ### 🔹 Backend (`/backend`)  
-```bash
+
 backend/
 │── controllers/    # Business logic (ToDo, Auth, etc.)
 │── middleware/     # Auth middleware (JWT)
