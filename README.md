@@ -49,6 +49,7 @@ frontend/
 │   └── App.js           # Main React app
 │── public/              # Static files
 │── tailwind.config.js   # TailwindCSS config
+---
 ## ⚙️ Tech Stack  
 
 - **Frontend:** React.js, TailwindCSS  
