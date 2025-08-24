@@ -57,4 +57,11 @@ frontend/
 - **Database:** MongoDB Atlas (Mongoose ODM)  
 - **Authentication:** JWT (JSON Web Tokens)  
 - **API Testing:** Postman  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+  
+## 🖥️ Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+
