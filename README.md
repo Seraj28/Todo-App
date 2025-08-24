@@ -70,6 +70,6 @@ git clone https://github.com/<your-username>/<your-repo>.git
 
 **Md Seraj**  
 💼 Aspiring MERN Stack Developer  
-📧 your-email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 seraj232855@gmail.com  
+🌐 [LinkedIn Profile](www.linkedin.com/in/md-s-14aa3127a)  
 
